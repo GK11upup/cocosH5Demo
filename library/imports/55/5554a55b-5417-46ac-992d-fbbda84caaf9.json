@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ball",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "20837302-0604-4b99-bf08-54dafc5b17cd"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ba5d543f-df9d-4934-9a00-a643702ec18f"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "16d6aef1-123b-41a5-9d75-a2ea999c1bee"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "20837302-0604-4b99-bf08-54dafc5b17cd"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "ba5d543f-df9d-4934-9a00-a643702ec18f"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "16d6aef1-123b-41a5-9d75-a2ea999c1bee"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

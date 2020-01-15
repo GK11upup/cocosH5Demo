@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p6word",
+    "texture": "e97315f1-9017-4128-9daf-06e6c4de36a4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      429,
+      237
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      429,
+      237
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

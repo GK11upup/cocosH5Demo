@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p5man",
+    "texture": "76c9c28e-d40d-4eb9-9bab-547d5c6101c7",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      855,
+      1147
+    ],
+    "offset": [
+      0.5,
+      1.5
+    ],
+    "originalSize": [
+      856,
+      1150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

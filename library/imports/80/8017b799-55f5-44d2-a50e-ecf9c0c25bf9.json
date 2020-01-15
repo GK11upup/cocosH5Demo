@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p4man",
+    "texture": "bda04e90-4e35-40aa-a9cf-4a95c8ae118c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      431,
+      850
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      433,
+      850
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

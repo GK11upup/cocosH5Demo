@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p6wei",
+    "texture": "09b2d65f-dce8-4c9f-92ac-974649301a64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      679,
+      334
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      679,
+      334
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

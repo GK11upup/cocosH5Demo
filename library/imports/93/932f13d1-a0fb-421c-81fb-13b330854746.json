@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roommate",
+    "texture": "1b495d8c-8ba2-4f1d-b4f1-a03aa77295d5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      574,
+      826
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      574,
+      826
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

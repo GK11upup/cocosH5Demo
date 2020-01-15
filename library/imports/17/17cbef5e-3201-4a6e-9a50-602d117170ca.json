@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poster",
+    "texture": "e050faa3-a7b6-422a-a083-9d66b3803010",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      305,
+      427
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      305,
+      427
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p2man2",
+    "texture": "8af438e9-5e19-4868-bb68-931a5903953c",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      612,
+      1109
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      614,
+      1109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

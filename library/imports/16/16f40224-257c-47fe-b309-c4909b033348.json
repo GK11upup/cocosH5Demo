@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaoguai",
+    "texture": "6d1fd333-b8c9-4b41-ab27-972fc7e96a49",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      297,
+      253
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      297,
+      253
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

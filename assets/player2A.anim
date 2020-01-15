@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "player2A",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 250
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 180
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 250
+        }
+      ]
+    }
+  },
+  "events": []
+}

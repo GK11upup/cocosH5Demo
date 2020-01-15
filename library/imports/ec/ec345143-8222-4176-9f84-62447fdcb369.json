@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p2w",
+    "texture": "bcfd64f3-41c3-48a1-baf0-148e561c09e2",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      874,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      876,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

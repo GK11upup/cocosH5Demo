@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "p6manA",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "501816c4-9738-4dc9-9ee6-a555d7e34a4c"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "cc00c229-f1e4-49f4-87b8-a83eb7be7a6c"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "670f18b9-eddd-4684-841c-70d7afd98b2b"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "501816c4-9738-4dc9-9ee6-a555d7e34a4c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

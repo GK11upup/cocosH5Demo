@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p5han",
+    "texture": "25cc1abf-921c-488a-8930-97517e99049a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      419,
+      323
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      419,
+      323
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p8phone3",
+    "texture": "32b1c2be-56bd-4a95-8d82-61473f9a7990",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      801,
+      516
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      804,
+      516
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

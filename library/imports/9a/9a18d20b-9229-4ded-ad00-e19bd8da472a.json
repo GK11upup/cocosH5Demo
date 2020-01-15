@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p7shang",
+    "texture": "13b70294-7a1f-402c-8658-6c8e378f2c8c",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      294,
+      448
+    ],
+    "offset": [
+      0.5,
+      2.5
+    ],
+    "originalSize": [
+      295,
+      453
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

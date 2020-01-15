@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p7word",
+    "texture": "a7dbf24a-6a49-4480-ac8d-254428ab863e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      428,
+      277
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      428,
+      277
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

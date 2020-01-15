@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p9man",
+    "texture": "ddc56dbd-89a4-41ae-9c75-3678b93e2a8d",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      954,
+      1120
+    ],
+    "offset": [
+      0.5,
+      4.5
+    ],
+    "originalSize": [
+      961,
+      1129
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

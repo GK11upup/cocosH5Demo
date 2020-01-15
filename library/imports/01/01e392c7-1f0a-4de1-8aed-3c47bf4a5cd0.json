@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "endtoy1A",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.3333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            240,
+            80
+          ]
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": [
+            240,
+            95
+          ]
+        },
+        {
+          "frame": 1.65,
+          "value": [
+            255,
+            95
+          ]
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            255,
+            85.5
+          ]
+        },
+        {
+          "frame": 3.3333333333333335,
+          "value": [
+            240,
+            80
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

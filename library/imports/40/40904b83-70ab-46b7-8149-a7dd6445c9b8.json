@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p5word",
+    "texture": "1322f188-f71a-413e-b90d-a9e14cf9792a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      831,
+      1058
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      831,
+      1058
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

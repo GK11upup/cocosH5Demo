@@ -1,0 +1,86 @@
+2020-01-15T01:27:35.553Z - normal: Load ~/.CocosCreator/settings.json
+2020-01-15T01:27:35.584Z - normal: Initializing Asset Database
+2020-01-15T01:27:35.586Z - normal: checking language setting...
+2020-01-15T01:27:35.587Z - normal: Language: zh
+2020-01-15T01:27:35.868Z - success: preview server running at http://localhost:7456
+2020-01-15T01:27:35.897Z - success: protocol editor-framework registered
+2020-01-15T01:27:35.897Z - success: protocol app registered
+2020-01-15T01:27:35.897Z - success: protocol theme registered
+2020-01-15T01:27:35.897Z - success: protocol packages registered
+2020-01-15T01:27:35.897Z - success: protocol uuid registerred
+2020-01-15T01:27:35.897Z - success: protocol db registerred
+2020-01-15T01:27:35.897Z - success: protocol thumbnail registerred
+2020-01-15T01:27:35.898Z - success: protocol unpack registerred
+2020-01-15T01:27:35.898Z - success: protocol disable-commonjs registerred
+2020-01-15T01:27:36.087Z - normal: connected!
+2020-01-15T01:27:36.089Z - normal: Check project /Users/gankai/k-file/insight/cocos/JCP/JCP
+2020-01-15T01:27:36.091Z - normal: Initializing project /Users/gankai/k-file/insight/cocos/JCP/JCP
+2020-01-15T01:27:36.161Z - success: adapters loaded
+2020-01-15T01:27:36.176Z - success: asset-db-debugger loaded
+2020-01-15T01:27:36.226Z - success: fb-audience-network loaded
+2020-01-15T01:27:36.243Z - success: fb-live-stream loaded
+2020-01-15T01:27:36.246Z - success: google-play-instant loaded
+2020-01-15T01:27:36.251Z - success: huawei-runtime loaded
+2020-01-15T01:27:36.252Z - success: jkw-adapter loaded
+2020-01-15T01:27:36.254Z - success: jsb-adapter loaded
+2020-01-15T01:27:36.258Z - success: oppo-runtime loaded
+2020-01-15T01:27:36.271Z - success: package-manager loaded
+2020-01-15T01:27:36.273Z - success: qtt-adapter loaded
+2020-01-15T01:27:36.275Z - success: runtime-dev-tools loaded
+2020-01-15T01:27:36.291Z - success: sdkbox loaded
+2020-01-15T01:27:36.304Z - success: ui-kit-preview-extra loaded
+2020-01-15T01:27:36.317Z - success: ui-kit-preview loaded
+2020-01-15T01:27:36.321Z - success: vivo-runtime loaded
+2020-01-15T01:27:36.322Z - success: alipay-minigame loaded
+2020-01-15T01:27:36.375Z - success: assets loaded
+2020-01-15T01:27:36.377Z - success: baidugame-opendata loaded
+2020-01-15T01:27:36.379Z - success: baidugame loaded
+2020-01-15T01:27:36.392Z - success: builder loaded
+2020-01-15T01:27:36.503Z - success: cocos-services loaded
+2020-01-15T01:27:36.517Z - success: console loaded
+2020-01-15T01:27:36.525Z - success: fb-instant-games loaded
+2020-01-15T01:27:36.539Z - success: game-window loaded
+2020-01-15T01:27:36.539Z - success: google-instant-games loaded
+2020-01-15T01:27:36.553Z - success: hierarchy loaded
+2020-01-15T01:27:36.566Z - success: inspector loaded
+2020-01-15T01:27:36.786Z - success: cpk-publish loaded
+2020-01-15T01:27:36.790Z - success: keystore loaded
+2020-01-15T01:27:36.813Z - success: node-library loaded
+2020-01-15T01:27:36.814Z - success: open-recent-items loaded
+2020-01-15T01:27:36.815Z - success: package-asset loaded
+2020-01-15T01:27:36.816Z - success: preferences loaded
+2020-01-15T01:27:36.827Z - success: project-exporter loaded
+2020-01-15T01:27:36.841Z - success: project-importer loaded
+2020-01-15T01:27:36.853Z - success: project-settings loaded
+2020-01-15T01:27:36.862Z - success: qtt-runtime loaded
+2020-01-15T01:27:36.876Z - success: scene loaded
+2020-01-15T01:27:36.877Z - success: simulator-debugger loaded
+2020-01-15T01:27:36.877Z - success: sprite-editor loaded
+2020-01-15T01:27:36.891Z - success: store loaded
+2020-01-15T01:27:36.904Z - success: timeline loaded
+2020-01-15T01:27:36.906Z - success: wechatgame-opendata loaded
+2020-01-15T01:27:36.909Z - success: wechatgame loaded
+2020-01-15T01:27:36.911Z - success: xiaomi-runtime loaded
+2020-01-15T01:27:37.553Z - normal: Initializing Cocos2d
+2020-01-15T01:27:37.885Z - normal: Initializing engine extends
+2020-01-15T01:27:38.853Z - info: Cocos Service load base data!
+2020-01-15T01:27:45.294Z - normal: Loading packages
+2020-01-15T01:27:45.302Z - normal: Watching packages
+2020-01-15T01:27:45.349Z - normal: Run Application
+2020-01-15T01:27:48.018Z - warn: Please change the definition of property 'audio2' in class 'game'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    audio2: cc.Texture2D,
+    // or:
+    audio2: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    audio2: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-01-15T01:27:48.021Z - warn: Can not indicate the 'cc.String' attribute for "game.audio2", which its default value is type of object.
+2020-01-15T01:33:39.906Z - info: shutdown preview server

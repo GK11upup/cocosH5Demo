@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7bc5ef24-26b8-43f8-8b4e-101492acc749",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "快逃mt背景一循环_04": {
+      "ver": "1.0.3",
+      "uuid": "bdd287ee-ea1d-467f-8a8f-845fcbbb0ee5",
+      "rawTextureUuid": "7bc5ef24-26b8-43f8-8b4e-101492acc749",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 287,
+      "height": 2047,
+      "rawWidth": 287,
+      "rawHeight": 2047,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p6man1",
+    "texture": "b86c4419-8eaf-40f9-bdb2-57d899c07169",
+    "atlas": "",
+    "rect": [
+      195,
+      0,
+      607,
+      859
+    ],
+    "offset": [
+      97.5,
+      0
+    ],
+    "originalSize": [
+      802,
+      859
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

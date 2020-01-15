@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "p4manAf",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            98,
+            0
+          ]
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": [
+            98,
+            200
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 0.5
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 0.5
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1,
+          "value": 0
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

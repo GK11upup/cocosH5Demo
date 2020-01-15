@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p9girl",
+    "texture": "8865bb42-d779-4917-b251-0092636cf5bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      679,
+      837
+    ],
+    "offset": [
+      0,
+      180
+    ],
+    "originalSize": [
+      679,
+      1197
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

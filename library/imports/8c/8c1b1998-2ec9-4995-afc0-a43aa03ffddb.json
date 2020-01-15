@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beidou",
+    "texture": "c6fe98e8-a655-4ceb-aa0d-69c95a5540be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      548,
+      475
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      548,
+      475
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
